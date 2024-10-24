@@ -2,6 +2,8 @@
 
 Observability of spring boot service using spring actuator, prometheus, grafana, loki,tempo and docker compose support 
 
+![Observability Grafana Stack (1)](https://github.com/user-attachments/assets/cbad7e7e-77e2-40ad-8212-6a5231afdde6)
+
 ## Technologies
 
 - [Spring Boot](https://docs.spring.io/spring-boot/index.html)

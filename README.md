@@ -1,4 +1,4 @@
-# Observability of Spring Boot with Grafana
+# Observability of Spring Boot with Grafana Stack
 
 Observability of spring boot service using spring actuator, prometheus, grafana, loki,tempo and docker compose support 
 
